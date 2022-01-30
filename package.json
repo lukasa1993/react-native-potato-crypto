@@ -1,7 +1,7 @@
 {
   "name": "react-native-potato-crypto",
   "title": "React Native Potato Crypto",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "potato crypto for react-native",
   "main": "index.js",
   "scripts": {
@@ -38,11 +38,11 @@
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
   "peerDependencies": {
-    "react": "16.9.0",
-    "react-native": "0.62.3"
+    "react": "^17.0.2",
+    "react-native": "^0.67.1"
   },
   "devDependencies": {
-    "react": "16.9.0",
-    "react-native": "0.62.3"
+    "react": "^17.0.2",
+    "react-native": "^0.67.1"
   }
 }

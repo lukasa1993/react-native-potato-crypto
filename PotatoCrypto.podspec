@@ -14,12 +14,11 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = "8.0"
   s.tvos.deployment_target = "9.0"
-  
-  s.source_files = "ios/**/*.{h,m}"
+
+  s.source_files = "ios/**/*.{h,m,mm}"
   s.requires_arc = true
 
   s.dependency "React"
   #s.dependency "others"
 end
 
-  
